@@ -26,3 +26,5 @@ Email: ehanafy939@gmail.com
 Kirolos anwer riad
 ID: 21069460
 Email: kirolosanwer22@gmail.com
+[Stakeholders analysis.pdf](https://github.com/user-attachments/files/23555503/Stakeholders.analysis.pdf)
+[project_planning_edited.pdf](https://github.com/user-attachments/files/23555507/project_planning_edited.pdf)
