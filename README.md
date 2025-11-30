@@ -27,6 +27,8 @@ Kirolos anwer riad
 ID: 21069460
 Email: kirolosanwer22@gmail.com
 
+Power BI service: https://app.powerbi.com/links/njXfadobxY?ctid=60456672-9c2a-44a3-b678-43fd61ec4620&pbi_source=linkShare&bookmarkGuid=9b9113a2-304a-4342-9559-69fdadd33388
+
 [Stakeholders analysis.pdf](https://github.com/user-attachments/files/23555503/Stakeholders.analysis.pdf)
 
 [project_planning_edited.pdf](https://github.com/user-attachments/files/23555507/project_planning_edited.pdf)
